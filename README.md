@@ -1,1 +1,1 @@
-<img src "/img/Machado img.png">
+<img src "img/Machado img.png">
